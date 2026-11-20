@@ -33,7 +33,7 @@
 
 我独立开发的深度学习复现工具。Agent 解析 README，Python 执行命令并记录日志和指标。**Trusted / Explore** 分开运行基线复现与研究探索，结果可通过标注版 README 和结构化记录回溯。
 
-[源码](https://github.com/lllllllama/RigorPilot-Skills) · [可核验的复现案例](https://github.com/lllllllama/RigorPilot-Skills#examples)
+[源码](https://github.com/lllllllama/RigorPilot-Skills) · [micrograd 复现案例](https://lllllllama.github.io/research-reproduction/)
 
 ### PICO ElderCare VR/MR
 
