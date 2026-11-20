@@ -2,11 +2,11 @@
 
 **具身智能 · 计算机视觉 · AI Agent 工程 · AI 全栈开发**
 
-我是 **2027 届本科应届毕业生**，目前大四，近期研究机器人操作的世界-动作模型。
+我是 **2027 届本科应届毕业生**，目前大四。近期在做具身智能，研究机器人操作的世界-动作模型与仿真评测。
 
 **正在寻找具身智能、计算机视觉、AI Agent 工程或 AI 全栈开发相关的工作机会。** 也欢迎技术交流与项目合作。[邮件联系我](mailto:lama@ckrao.dev)
 
-[个人主页](https://lllllllama.github.io/) · [CSDN · 约 1.4 万粉丝](https://blog.csdn.net/2301_79168784) · [求职方向](#求职方向) · [近期项目](#近期项目) · [代表项目](#代表项目) · [实习经历](#实习经历) · [科研](#科研)
+[具身算法作品](https://lllllllama.github.io/embodied-ai/) · [AI 全栈与 Agent 作品](https://lllllllama.github.io/ai-full-stack/) · [个人主页](https://lllllllama.github.io/) · [CSDN · 约 1.4 万粉丝](https://blog.csdn.net/2301_79168784) · [求职方向](#求职方向) · [近期项目](#近期项目) · [代表项目](#代表项目) · [实习经历](#实习经历) · [科研](#科研)
 
 ## 近期项目
 
@@ -14,7 +14,7 @@
 
 **进行中。** 基于 V-JEPA，从当前观测预测物体位姿、运动与相对关系，验证紧凑的未来物理表征能否用于生成机器人动作。
 
-在一组小规模离线仿真实验中，未来查询数从 1,568 减到 196，**预测器计算量（FLOPs）约降 86%，训练循环耗时减少一半以上**。
+在一组小规模离线仿真实验中，未来查询数从 1,568 减到 196，**预测器计算量（FLOPs）约降 86%，训练循环耗时减少一半以上**。[实验对照与技术复盘](https://lllllllama.github.io/embodied-ai/physical-wam/)
 
 ## 求职方向
 
@@ -29,7 +29,7 @@
 
 [![RigorPilot-Skills 的 GitHub 星标](https://img.shields.io/github/stars/lllllllama/RigorPilot-Skills?style=flat-square&logo=github&label=Stars)](https://github.com/lllllllama/RigorPilot-Skills/stargazers)
 
-**[skills.sh 累计约 460 万次安装](https://www.skills.sh/lllllllama/rigorpilot-skills)**（2026-11-20）
+**[12 个 Skills 在 skills.sh 累计约 460 万次安装](https://www.skills.sh/lllllllama/rigorpilot-skills)**（2026-11-20）
 
 我独立开发的深度学习复现工具。Agent 解析 README，Python 执行命令并记录日志和指标。**Trusted / Explore** 分开运行基线复现与研究探索，结果可通过标注版 README 和结构化记录回溯。
 
