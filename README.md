@@ -1,10 +1,10 @@
 # 饶承坤 · Chengkun Rao
 
-**具身智能 · 计算机视觉 · AI Agent 工程**
+**具身智能 · 计算机视觉 · AI Agent 工程 · AI 全栈开发**
 
 我是 **2027 届本科应届毕业生**，目前大四，近期研究机器人操作的世界-动作模型。
 
-**正在寻找具身智能、计算机视觉或 AI Agent 工程相关的工作机会。** 也欢迎技术交流与项目合作。[邮件联系我](mailto:lama@ckrao.dev)
+**正在寻找具身智能、计算机视觉、AI Agent 工程或 AI 全栈开发相关的工作机会。** 也欢迎技术交流与项目合作。[邮件联系我](mailto:lama@ckrao.dev)
 
 [个人主页](https://lllllllama.github.io/) · [CSDN · 约 1.4 万粉丝](https://blog.csdn.net/2301_79168784) · [求职方向](#求职方向) · [近期项目](#近期项目) · [代表项目](#代表项目) · [实习经历](#实习经历) · [科研](#科研)
 
@@ -21,6 +21,7 @@
 - **具身智能算法研发**。关注机器人操作、世界-动作模型和仿真评测，能参与动作策略的模型实现、训练和离线验证。[Physical WAM](#近期项目)
 - **计算机视觉算法研发**。关注 RGB-D 感知、多模态融合、目标检测和语义分割，能用 PyTorch 完成模型实现、训练、消融实验和基准评测。[DDSkel](#科研)
 - **AI Agent 应用与基础设施研发**。关注 Agent Harness、工具调用、MCP 和 Skills 集成，能开发带执行日志和评测记录的智能体工作流。[RigorPilot-Skills](#代表项目)
+- **AI 全栈开发**。能开发 Web 界面、后端 API 和数据层，接入模型与 MCP 工具，并配置部署和自动更新。DeepTrender 展示了公开仪表盘、Flask API 和 SQLite 数据层的完整链路。[DeepTrender 在线演示](https://lllllllama.github.io/DeepTrender/)
 
 ## 代表项目
 
